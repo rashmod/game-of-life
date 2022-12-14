@@ -48,7 +48,7 @@ canvas.height = height;
 canvas.width = width;
 
 // setting size of grid cell
-const RESOLUTION = 10;
+const RESOLUTION = 15;
 // setting the no of col based on window width
 const COLS = Math.floor(width / RESOLUTION);
 // setting the no of row based on window height
